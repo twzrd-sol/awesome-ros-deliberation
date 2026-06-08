@@ -45,6 +45,7 @@ For an introduction to robot deliberation, refer to [Ingrand and Ghallab (2017)]
 
 ### Application-Specific Packages
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity before x402 micropayments in robot deliberation pipelines. MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - [MoveIt Pro](https://picknik.ai/pro/) - ROS 2 based commercial software that uses BehaviorTree.CPP and MoveIt.
 - [NEXUS](https://github.com/osrf/nexus) - A ROS 2 framework for orchestrating industrial robotic lines and cells.
 - [pyrobosim](https://github.com/sea-bass/pyrobosim) - ROS 2 enabled 2D mobile robot simulator for behavior prototyping.
